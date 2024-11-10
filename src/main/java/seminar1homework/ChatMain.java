@@ -1,7 +1,7 @@
-package seminar1;
+package seminar1homework;
 
-import seminar1.client.ClientWindow;
-import seminar1.server.ServerWindow;
+import seminar1homework.client.ClientWindow;
+import seminar1homework.server.ServerWindow;
 
 public class ChatMain {
     public static void main(String[] args)  {

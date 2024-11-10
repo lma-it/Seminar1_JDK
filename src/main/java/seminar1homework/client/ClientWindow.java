@@ -1,7 +1,7 @@
-package seminar1.client;
+package seminar1homework.client;
 
 import org.jetbrains.annotations.NotNull;
-import seminar1.server.ServerWindow;
+import seminar1homework.server.ServerWindow;
 
 import javax.swing.*;
 import java.awt.*;
